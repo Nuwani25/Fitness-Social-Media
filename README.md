@@ -1,6 +1,6 @@
 # Fitness Social Media Application
 
-This repository contains my contribution to a fitness social media group project developed for university assignement.
+This repository contains my contribution to a fitness social media group project developed for a university assignment.
 
 My component lets users share fitness posts with images and interact through likes and comments.
 
